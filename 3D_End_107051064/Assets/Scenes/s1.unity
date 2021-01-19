@@ -120,7 +120,7 @@ NavMeshSettings:
     accuratePlacement: 0
     debug:
       m_Flags: 0
-  m_NavMeshData: {fileID: 23800000, guid: 27f6c9af01d10f549a829bb2c83eb280, type: 2}
+  m_NavMeshData: {fileID: 23800000, guid: eea091f7133a5474da5a24b691be7055, type: 2}
 --- !u!1 &58035743
 GameObject:
   m_ObjectHideFlags: 0
@@ -5335,7 +5335,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 5.758e-42, y: 1.04e-43, z: 0, w: 0}
+  m_BoundingSphereOverride: {x: 0, y: 1.9775e-41, z: 0, w: 1.9252443e+31}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
